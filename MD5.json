@@ -1,0 +1,6 @@
+[Client]
+repository=ragnarokao-cliente
+githubAccount=Arterius
+fileToExecuteAfterUpdated=RagnarokAO.exe
+folderToExtract=Cliente
+version=v0.0.0
